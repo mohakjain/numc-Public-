@@ -40,7 +40,7 @@ My autograder results are as follows:
 
 
 
-There was also a leaderboard for this project, ranking the submissions by how much they beat the benchmark. **My submission was ranked 5th best in the course!**
+There was also a leaderboard for this project, ranking the submissions by how much they beat the benchmark. **My submission was ranked in the top 5 submitted in the course!**
 
 I want to wrap up by saying this is my favorite project I've ever done in the 61 series of classes!
 It's been an absolute blast, used so many cool pieces of material, and employed all sorts of handy algorithmic tricks.
